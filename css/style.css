@@ -126,7 +126,7 @@ font: 700 normal 4em/1.5 'Poppins';}
 .three_box{margin:50px auto;width: 85%;}
 .three_box_inner{padding: 65px 10px 30px 10px;}
 .three_box ul{width:100%;}
-.three_box ul li{width:32%;height:585px;float:left;margin-right:2%;}
+.three_box ul li{width:32%;height:595px;float:left;margin-right:2%;}
 .three_box ul li:nth-child(1){background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
 .three_box ul li:nth-child(2){background: url(../images/icons8-code-50.png) center 20px/44px 44px no-repeat,#fff;}
 .three_box ul li:nth-child(3){    margin-right:0;background: url(../images/icons8-increase-50.png) center 20px/40px 40px no-repeat,#fff;}
