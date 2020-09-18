@@ -39,10 +39,10 @@
   @media screen and (min-width:300px) and (max-width:700px){
   .three_box{width:90%}
   .three_box ul {width: 100%;}
-  .three_box ul li {width: 90%;height: 410px;float: inherit;margin: 27px auto;}
+  .three_box ul li {width: 90%;height: 500px;float: inherit;margin: 27px auto;}
   .three_box ul li:nth-child(1) {height: 400px;background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
-  .three_box ul li:nth-child(2) {height: 450px;}
-  .three_box ul li:nth-child(3) {margin-right: auto; height: 510px;}
+  .three_box ul li:nth-child(2) {height: 520px;}
+  .three_box ul li:nth-child(3) {margin-right: auto; height: 580px;}
   .three_box_inner {padding: 65px 10px 0px 10px;}
   .box_name {font-size: 14px;padding-bottom: 0;}
   #jung{padding-bottom: 10px;width: 100%;}
@@ -134,7 +134,7 @@
   }
   
   @media screen and (max-width:700px){
-  #about_page {height: 1570px;}}
+  #about_page {height: 1650px;}}
   
   @media screen and (max-width:1120px){
   .development_lang{width: 100%;clear:both;}
