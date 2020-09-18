@@ -1,3 +1,8 @@
+@media screen and (min-width:320px) and (max-width:700px){
+  #main_page {height: 700px;}
+  #iam_page {height: 750px;}
+}
+
 @media screen and (min-width:900px) and (max-width:1050px){
   .iam_contents {width: 800px;}
   .my_pic img{width:430px;height: 430px;}
