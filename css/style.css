@@ -128,8 +128,12 @@ font: 700 normal 4em/1.5 'Poppins';}
 .three_box ul{width:100%;}
 .three_box ul li{width:32%;height:595px;float:left;margin-right:2%;}
 .three_box ul li:nth-child(1){background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
-.three_box ul li:nth-child(2){background: url(../images/icons8-code-50.png) center 20px/44px 44px no-repeat,#fff;}
+.three_box ul li:nth-child(2){background: url(../images/icons8-user-50.png) center 20px/44px 44px no-repeat,#fff;}
 .three_box ul li:nth-child(3){    margin-right:0;background: url(../images/icons8-increase-50.png) center 20px/40px 40px no-repeat,#fff;}
+
+.three_box .point{background-color:#FFF59D}
+.three_box .m-point{background-color:#E57373}
+.three_box .download{color:#2196F3}
 
 .box_name{text-align: center;font-size: 15px;font-weight: lighter;padding-top:8px;letter-spacing: 6px;padding-bottom: 25px;}
 .check{width:5%;}
