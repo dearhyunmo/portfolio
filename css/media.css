@@ -40,9 +40,9 @@
   .three_box{width:90%}
   .three_box ul {width: 100%;}
   .three_box ul li {width: 90%;height: 410px;float: inherit;margin: 27px auto;}
-  .three_box ul li:nth-child(1) {height: 580px;background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
-  .three_box ul li:nth-child(2) {height: 410px;}
-  .three_box ul li:nth-child(3) {margin-right: auto; height: 450px;}
+  .three_box ul li:nth-child(1) {height: 400px;background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
+  .three_box ul li:nth-child(2) {height: 450px;}
+  .three_box ul li:nth-child(3) {margin-right: auto; height: 510px;}
   .three_box_inner {padding: 65px 10px 0px 10px;}
   .box_name {font-size: 14px;padding-bottom: 0;}
   #jung{padding-bottom: 10px;width: 100%;}
@@ -52,7 +52,7 @@
   #lan{width:100%;padding-bottom:11px;}
   #design{width:46%;float:left;position: absolute;padding-top:2%;}
   #design .box_title{width: 35%;}
-  .development .box_name{padding-bottom: 10px;}
+  .character .box_name{padding-bottom: 10px;}
   #ms{width: 46%;padding-top:2%;float: right;}
   #goal{padding-bottom: 2%;}
   }
@@ -61,11 +61,15 @@
     .three_box{width:90%}
     .three_box ul {width: 100%;}
     .three_box ul li {width: 90%;height: 410px;float: inherit;margin: 27px auto;}
-    .three_box ul li:nth-child(1) {height: 550px;background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
+    .three_box ul li:nth-child(1) {height: 460px;background: url(../images/icons8-education-50.png) center 20px/50px 50px no-repeat,#fff;}
     .three_box ul li:nth-child(2) {height: 420px;}
-    .three_box ul li:nth-child(3) {margin-right: auto; height: 530px;}
+    .three_box ul li:nth-child(3) {margin-right: auto; height: 460px;}
   }
   
+  @media screen and (min-width:1200px){
+    .character .box_txt{ padding-bottom: 45px; }
+  }
+
   @media screen and (min-width:300px) and (max-width:798px){
   .zt-skill-bar {height: 12px;font-size: 11px;}
   #uiux{ width: 95%;padding-top:0px;padding-bottom: 0;}
